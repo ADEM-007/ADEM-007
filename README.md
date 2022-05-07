@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADEM-007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<img align="center" src="https://camo.githubusercontent.com/63c229a850c9a4f9a3847fe8dc307f216c108dc5692abfebc07770b72b9bd154/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d2d656e6573267468656d653d6461726b26686964655f626f726465723d74727565" alt="ADEM-007" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ADEM-007&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
+
